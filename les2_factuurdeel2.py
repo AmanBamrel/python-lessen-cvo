@@ -22,3 +22,4 @@ print(f"Subtotaal: € {subtotaal_afgerond:.2f}")
 
 print(f"BTW ({btw_percentage}%): € {btw_afgerond:.2f}")
 print(f"TOTAAL: € {totaal_afgerond:.2f}")
+
