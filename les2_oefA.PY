@@ -9,3 +9,4 @@ print (fav_getal)
 print (type(naam))
 print(type(leeftijd))
 print(type(fav_getal))
+
