@@ -34,4 +34,8 @@ elif keuze == "2":
     print(f"De temperatuur in Farenheit is : {temp_farenheit:.1f}°F") 
 
 elif keuze == "3":
-     print ("gestopt")
+    print ("gestopt")
+    
+     
+else : 
+    print ("ongeldige keuze , probeer opnieuwe")
